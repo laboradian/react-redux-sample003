@@ -5,3 +5,11 @@ React と Redux を使ったサンプルその３
 
 - [Example: Reddit API · Redux](http://redux.js.org/docs/advanced/ExampleRedditAPI.html)
 
+
+Usage
+---------
+
+```
+$ npm install
+$ npm run
+```
